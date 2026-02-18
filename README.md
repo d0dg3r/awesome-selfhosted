@@ -305,6 +305,7 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
 - [Slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
 - [SyncMarks](https://codeberg.org/Offerel/SyncMarks-Webapp) - Sync and manage your browser bookmarks from Edge, Firefox and Chromium. ([Clients](https://codeberg.org/Offerel/SyncMarks-Extension)) `AGPL-3.0` `PHP`
+- [GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Sync bookmarks with your GitHub repo. No server, per-file storage, Chrome & Firefox. ([Source Code](https://github.com/d0dg3r/GitSyncMarks)) `MIT` `JavaScript`
 
 
 ### Calendar & Contacts
